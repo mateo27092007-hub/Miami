@@ -1,0 +1,15 @@
+.git
+.gitignore
+.assetsignore
+wrangler.jsonc
+LEEME.md
+node_modules
+_build
+_archivo
+ABRIR-PAGINA.bat
+prototipos
+assets/x12/x12-film.mp4
+assets/x12/x12-film-mo.mp4
+assets/x12/x12-film-poster.jpg
+assets/x12/x12-film-mo-poster.jpg
+.wrangler

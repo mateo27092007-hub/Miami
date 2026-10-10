@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "nasfeco-miami",
+  "compatibility_date": "2026-10-01",
+  "workers_dev": true,
+  "assets": {
+    "directory": "."
+  },
+  "routes": [
+    { "pattern": "nasfecousa.com", "custom_domain": true },
+    { "pattern": "www.nasfecousa.com", "custom_domain": true }
+  ]
+}
